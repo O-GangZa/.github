@@ -5,6 +5,12 @@
 # 안녕하세요! 오감자🍟 아니죠~! "오강자" 팀입니다. 🙋
 (자꾸 사람들이 놀려,,😖😖😖)
 
+# 오강자의 협업 툴
+* Notion : https://www.notion.so/f47ef3d55d86420985d99491af2fdd76
+* Padlet (스터디) : https://padlet.com/tmsk0711/ogangza
+* Padlet (파라미터 튜닝) :https://padlet.com/tmsk0711/ogangza_parametertuning
+
+<br>
 애자일 소다 기업측이 제시해 주신 과제 
 
 ![image](https://user-images.githubusercontent.com/80737049/172666317-138bdf09-51e7-4ea6-b68b-66cbfa461c18.png)
