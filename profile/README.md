@@ -9,8 +9,9 @@
   
 # Tools 😎
 * [Notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
-* [Padlet (스터디)](https://padlet.com/tmsk0711/ogangza)
-* [Padlet (파라미터 튜닝)](https://padlet.com/tmsk0711/ogangza_parametertuning)
+* [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
+* [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
+~~제발 봐주세요,, 열심히 했으니까~~
 
 <br>
 
