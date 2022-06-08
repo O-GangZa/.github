@@ -11,7 +11,8 @@
 * [Padlet (파라미터 튜닝)](https://padlet.com/tmsk0711/ogangza_parametertuning)
 
 <br>
-애자일 소다 기업측이 제시해 주신 과제 
+
+## 애자일 소다 기업측이 제시해 주신 과제 
 
 ![image](https://user-images.githubusercontent.com/80737049/172666317-138bdf09-51e7-4ea6-b68b-66cbfa461c18.png)
 
