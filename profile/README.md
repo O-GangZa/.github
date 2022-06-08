@@ -1,5 +1,5 @@
 <p align="center">
-![오감자아저씨](https://user-images.githubusercontent.com/80737049/172663329-43d0c6cc-a16e-4bc7-97f7-bbddd02d7e96.jpg width="20%" height="30%")
+<img src="https://user-images.githubusercontent.com/80737049/172663329-43d0c6cc-a16e-4bc7-97f7-bbddd02d7e96.jpg" width="20%" height="30%">
 </p>
 # 안녕하세요! 오감자🍟 아니고 오강자 팀입니다. 
 (자꾸 사람들이 놀려,,😖😖😖)
