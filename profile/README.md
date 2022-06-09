@@ -44,7 +44,7 @@ https://github.com/O-GangZa/Heuristic
 
 <br>
 
-###### Project Tools 😎
+### Project Tools 😎
 * [Notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
 * [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
 * [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
