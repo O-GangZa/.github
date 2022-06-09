@@ -70,13 +70,13 @@ https://github.com/O-GangZa/Heuristic
 <tr>
 <td>
 <div>
-<img src="https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif" width="70%" height="70%">
 
 </div>
 </td>
 <td>
 <div>
-<img src="https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif" width="70%" height="70%">
 
 </div>
 </td>
@@ -84,12 +84,12 @@ https://github.com/O-GangZa/Heuristic
 <tr>
 <td>
 <div>
-강자가?
+아이템만 피해가는,, 우리마음 모르는 강자 😇😇😇😇😇
 </div>
 </td>
 <td>
 <div>
-잘되나?
+우리 강자가 달라졌어요!🧡
 </div>
 </td>
 </tr>
