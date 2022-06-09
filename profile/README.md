@@ -38,8 +38,7 @@
 
 '이거 너무 쉬운 환경을 받아서 금방 끝나는 거 아냐?'  
 
-![image](https://user-images.githubusercontent.com/96896665/172733115-ba768d64-5602-49a0-8f83-6bbf0e518b80.png)
-
+<img src="https://user-images.githubusercontent.com/96896665/172733115-ba768d64-5602-49a0-8f83-6bbf0e518b80.png" width="30%" height="30%">
 
 ## 그럼 빠르게 끝내볼까요?
 
