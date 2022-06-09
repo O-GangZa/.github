@@ -55,9 +55,10 @@ https://github.com/O-GangZa/Heuristic
 ~~제발 구경해주세요,, 열심히 했으니까~~
 
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/80737049/172747656-42f0564a-5254-4a2f-b008-c640f83be7ab.png)
-초기의 바보 강자,,,~~내 마음도 모르는 ~~
   
+초기의 바보 강자,,,~~내 마음도 모르는 ~~
+  ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172747830-9456a707-a24e-42b7-bcd0-6a5171d45510.gif)
+
 </p>
 
 <br>
