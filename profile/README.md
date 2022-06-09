@@ -19,6 +19,21 @@
 
 <br>
 
+# 바로 결과물을 볼수있게 위에 둘까?
+## Pre Q러닝
+https://github.com/O-GangZa/Pre-Q-Learning  
+(구구절절한 스토리는 레포에서 직접 확인하세요)
+
+## MQQ러닝
+https://github.com/O-GangZa/Multi-Q-table-Q-learning-Algorithm
+
+## DQN
+https://github.com/O-GangZa/DQN
+
+## 휴리스틱 알고리즘
+https://github.com/O-GangZa/Heuristic
+
+<br><br>
 ## 우리의 프로젝트 주제는..
 
 ![image](https://user-images.githubusercontent.com/80737049/172666317-138bdf09-51e7-4ea6-b68b-66cbfa461c18.png)
@@ -59,20 +74,7 @@ baseline인 환경 코드도 주어졌고, 이미 실습해본 코드들도 그�
 다들 어려운 모델들은 일단 미뤄두고 가장 쉽다는 Q러닝에 도전해보기 시작했습니다만
 여전히 전전긍긍 고민하면서 밤늦게까지 게더에서 방황하던 저희 사이에 그럴듯한 아이디어가 나왔습니다.
 
-## Pre Q러닝
-https://github.com/O-GangZa/Pre-Q-Learning  
-(구구절절한 스토리는 레포에서 직접 확인하세요)
 
-## MQQ러닝
-https://github.com/O-GangZa/Multi-Q-table-Q-learning-Algorithm
-
-## DQN
-https://github.com/O-GangZa/DQN
-
-## 휴리스틱 알고리즘
-https://github.com/O-GangZa/Heuristic
-
-<br><br>
 
 <!-- # 처음 접하는 강화학습. 어떻게 접근했을까?
 
