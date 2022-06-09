@@ -74,7 +74,7 @@ https://github.com/O-GangZa/Heuristic
 
 <br><br>
 
-# 처음 접하는 강화학습. 어떻게 접근했을까?
+<!-- # 처음 접하는 강화학습. 어떻게 접근했을까?
 
 * A 공부가 끝난줄 알았는데 또 공부?
 
@@ -129,7 +129,7 @@ AI자습하기 좋다는 CS231n (아니었다...)
 
 * [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
 
-![image](https://user-images.githubusercontent.com/96896665/172732218-63248213-4651-4aa2-83eb-f16e27ddaa3a.png)
+![image](https://user-images.githubusercontent.com/96896665/172732218-63248213-4651-4aa2-83eb-f16e27ddaa3a.png) -->
 
 
 
