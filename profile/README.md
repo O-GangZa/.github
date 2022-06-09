@@ -57,6 +57,7 @@ https://github.com/O-GangZa/Heuristic
 <br>
 
 ###### 우리 마음 모르던 강자..🥺🥺🥺
+아이템만 피해간다. 😇😇😇😇😇
 ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
  
  <br>
