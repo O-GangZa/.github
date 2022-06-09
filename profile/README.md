@@ -21,17 +21,25 @@
 
 # 그래서 우리들의 OUTPUT은?!
 
-## Pre Q러닝
+### 1. Pre Q러닝
 https://github.com/O-GangZa/Pre-Q-Learning  
 
-## MQQ러닝
+<br>
+
+### 2. MQQ러닝
 https://github.com/O-GangZa/Multi-Q-table-Q-learning-Algorithm
 
-## DQN
+<br>
+
+### 3. DQN
 https://github.com/O-GangZa/DQN
 
-## 휴리스틱 알고리즘
+<br>
+
+### 4. 휴리스틱 알고리즘
 https://github.com/O-GangZa/Heuristic
+
+<br>
 
 ### 우리들의 프로젝트 로그,,
 
