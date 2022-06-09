@@ -54,6 +54,8 @@ https://github.com/O-GangZa/Heuristic
 * [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
 ~~제발 구경해주세요,, 열심히 했으니까~~
 
+<br>
+
 ###### 우리 마음 모르던 강자..🥺🥺🥺
 ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
  
