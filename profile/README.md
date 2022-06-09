@@ -56,13 +56,16 @@ https://github.com/O-GangZa/Heuristic
 
 <p align="center">
     초기의 바보 강자,,,~~내 마음도 모르는 ~~<br>
+  
 ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
-
+  
 </p>
 
 <p align="center">
     이제 말 잘듣는 강자!🧡 <br>
+  
 ![ddd](https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif)
+  
 </p>
 
 
