@@ -40,7 +40,9 @@
 
 <img src="https://user-images.githubusercontent.com/96896665/172733115-ba768d64-5602-49a0-8f83-6bbf0e518b80.png" width="30%" height="30%">
 
-## 그럼 빠르게 끝내볼까요?
+<br>
+
+## 그래서 우리의 결과물은?
 
 자신감에 차있던 우리들은 각자가 해보고싶은 다양한 모델들의 적용을 연구해봤습니다.  
 제일 쉬운 Q러닝부터 해보시는분도, 강화학습의 꽃이라 불리는 Actor-critic 모델부터 해보시는 분도  
@@ -72,7 +74,9 @@ https://github.com/O-GangZa/DQN
 ## 휴리스틱 알고리즘
 https://github.com/O-GangZa/Heuristic
 
-## 처음 접하는 강화학습. 어떻게 접근했을까?
+<br><br>
+
+# 처음 접하는 강화학습. 어떻게 접근했을까?
 
 * A 공부가 끝난줄 알았는데 또 공부?
 
