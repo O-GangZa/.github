@@ -56,8 +56,7 @@ https://github.com/O-GangZa/Heuristic
 
 <p align="center">
     초기의 바보 강자,,,~~내 마음도 모르는 ~~<br>
-    
-    <img src="https://user-images.githubusercontent.com/80737049/172747830-9456a707-a24e-42b7-bcd0-6a5171d45510.gif" width="30%" height="30%">
+    ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif style="zoom:50%;")
 
 </p>
 
