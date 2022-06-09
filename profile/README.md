@@ -81,6 +81,19 @@ https://github.com/O-GangZa/Heuristic
 </div>
 </td>
 </tr>
+<tr>
+<td>
+<div>
+강자가?
+</div>
+</td>
+<td>
+<div>
+잘되나?
+</div>
+</td>
+</tr>
+
 </table>
 
 
