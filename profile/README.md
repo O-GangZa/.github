@@ -8,18 +8,16 @@
 저희 팀은, AIFFEL YJ 2기 **유상민(퍼실), 신휘정(팀장), 노현호, 박흥선, 장진구, 한태양**으로 이루어져있습니다.<br>
 저희가 학습시킨 에이전트 이름이 **강자(오씨, 1개월생)** 이기도 하고, **😤다섯명의 강한 자들😤**이라는 뜻으로 "오 강자" 입니다.
 
-
 <br>
-  
-# Tools 😎
-* [Notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
-* [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
-* [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
-~~제발 구경해주세요,, 열심히 했으니까~~
+# 우리들의 프로젝트 주제는..
 
-<br>
+![image](https://user-images.githubusercontent.com/80737049/172666317-138bdf09-51e7-4ea6-b68b-66cbfa461c18.png)
 
-# 바로 결과물을 볼수있게 위에 둘까?
+애자일 소다 기업 측에서 제시한 기업과제입니다. 처음 위치에서 시작해서 지시된 아이템을 모두 챙겨서 처음 위치로 다시 돌아오는 강자(오씨, 1개월생)를 강화학습을 통해서 학습시키는 것입니다. 물론 장애물을 피해서요! <br>
+잘하면 🧡💛💛💚💙💜을 주고, 못하면 🔪🔪🤬🔪🔪을 주면서 애 키우듯이 키워보았습니다. ~~육아는 어려워..~~
+
+
+# 우리들의 OUTPUT!
 ## Pre Q러닝
 https://github.com/O-GangZa/Pre-Q-Learning  
 (구구절절한 스토리는 레포에서 직접 확인하세요)
@@ -33,13 +31,6 @@ https://github.com/O-GangZa/DQN
 ## 휴리스틱 알고리즘
 https://github.com/O-GangZa/Heuristic
 
-<br><br>
-## 우리의 프로젝트 주제는..
-
-![image](https://user-images.githubusercontent.com/80737049/172666317-138bdf09-51e7-4ea6-b68b-66cbfa461c18.png)
-
-애자일 소다 기업 측에서 제시한 기업과제입니다. 처음 위치에서 시작해서 지시된 아이템을 모두 챙겨서 처음 위치로 다시 돌아오는 강자(오씨, 1개월생)를 강화학습을 통해서 학습시키는 것입니다. 물론 장애물을 피해서요! <br>
-잘하면 🧡💛💛💚💙💜을 주고, 못하면 🔪🔪🤬🔪🔪을 주면서 애 키우듯이 키워보았습니다. ~~육아는 어려워..~~
 
 <br>
 
@@ -134,5 +125,11 @@ AI자습하기 좋다는 CS231n (아니었다...)
 ![image](https://user-images.githubusercontent.com/96896665/172732218-63248213-4651-4aa2-83eb-f16e27ddaa3a.png) -->
 
 
-
+<br>
+  
+# Tools 😎
+* [Notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
+* [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
+* [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
+~~제발 구경해주세요,, 열심히 했으니까~~
 
