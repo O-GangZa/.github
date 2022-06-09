@@ -54,10 +54,12 @@ https://github.com/O-GangZa/Heuristic
 * [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
 ~~제발 구경해주세요,, 열심히 했으니까~~
 
-###### 초반에 우리 마음도 모르는 강자..  
+###### 우리 마음 모르던 강자..🥺🥺🥺
 ![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
-  
-###### 많이 혼나고 이제 말 잘듣는 강자!🧡
+ 
+ <br>
+ 
+###### 우리 강자가 달라졌어요!🧡
   
 ![ddd](https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif)
   
