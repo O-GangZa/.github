@@ -1,4 +1,5 @@
 <p align="center">
+  -오강자 0세-
 <img src="https://user-images.githubusercontent.com/80737049/172663329-43d0c6cc-a16e-4bc7-97f7-bbddd02d7e96.jpg" width="30%" height="30%">
 </p>
 
@@ -52,6 +53,9 @@ https://github.com/O-GangZa/Heuristic
 * [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
 ~~제발 구경해주세요,, 열심히 했으니까~~
 
+
+
+<br>
 <br>
 <br>
 <br>
