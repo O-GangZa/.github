@@ -17,11 +17,12 @@
 애자일 소다 기업 측에서 제시한 기업과제입니다. 처음 위치에서 시작해서 지시된 아이템을 모두 챙겨서 처음 위치로 다시 돌아오는 강자(오씨, 1개월생)를 강화학습을 통해서 학습시키는 것입니다. 물론 장애물을 피해서요! <br>
 잘하면 🧡💛💛💚💙💜을 주고, 못하면 🔪🔪🤬🔪🔪을 주면서 애 키우듯이 키워보았습니다. ~~육아는 어려워..~~
 
+<br>
 
-# 우리들의 OUTPUT!
+# 그래서 우리들의 OUTPUT은?!
+
 ## Pre Q러닝
 https://github.com/O-GangZa/Pre-Q-Learning  
-(구구절절한 스토리는 레포에서 직접 확인하세요)
 
 ## MQQ러닝
 https://github.com/O-GangZa/Multi-Q-table-Q-learning-Algorithm
@@ -32,8 +33,15 @@ https://github.com/O-GangZa/DQN
 ## 휴리스틱 알고리즘
 https://github.com/O-GangZa/Heuristic
 
+### 우리들의 프로젝트 로그,,
 
-<br>
+# Tools 😎
+* [Notion](https://www.notion.so/f47ef3d55d86420985d99491af2fdd76)
+* [Padlet (스터디 로그)](https://padlet.com/tmsk0711/ogangza)
+* [Padlet (파라미터 튜닝 로그)](https://padlet.com/tmsk0711/ogangza_parametertuning)
+~~제발 구경해주세요,, 열심히 했으니까~~
+
+
 
 처음 들었을 때 좀 놀랐던게, 주어진 Gridworld기반 환경은 생초보인 저희도 이미 해본적 있던 기본 중의 기본이었습니다.
 
