@@ -69,19 +69,18 @@ https://github.com/O-GangZa/Heuristic
 <tr>
 <td>
 <div>
-![KakaoTalk_20220609_092252682](https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif)
+<img src="https://user-images.githubusercontent.com/80737049/172748092-652ca0d2-08d8-4f29-8d82-175e31bff183.gif" width="30%" height="30%">
 
 </div>
 </td>
 <td>
 <div>
-![ddd](https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif)
+<img src="https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif" width="30%" height="30%">
 
 </div>
 </td>
 </tr>
 
-<img src="https://user-images.githubusercontent.com/80737049/172748583-9d3c7daf-6acf-4954-8c76-f6e4b77d8493.gif" width="30%" height="30%">
 
 
 <br>
